@@ -1,0 +1,11 @@
+@import url(cabecalho.css);
+@import url(rodape.css);
+@import url(corpo.css);
+@import url(responsividade.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
